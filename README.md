@@ -6,6 +6,6 @@
 <br><br/>
 
 # 實作報告
-![bubble_sort1](https://user-images.githubusercontent.com/66252302/125819067-57d2cf8a-5984-4277-ba7e-cfbb34bbefa3.gif)
-![insertion_sort1](https://user-images.githubusercontent.com/66252302/125819147-44155bfb-da35-4bb5-8a03-269214eb238b.gif)
+![bubble_sort1](https://user-images.githubusercontent.com/66252302/125820452-8ea8ee45-540e-4814-870e-bfe8fba89146.gif)
+![insertion_sort1](https://user-images.githubusercontent.com/66252302/125820480-c1bd0f95-273a-45c9-a4cf-09505a921190.gif)
 
